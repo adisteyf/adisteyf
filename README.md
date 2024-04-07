@@ -3,6 +3,9 @@
 <img height="40" align="left" src="https://skillicons.dev/icons?i=rust,java,maven,cpp,cs,html,css,golang,photoshop,vscode,discord,stackoverflow,idea"/><br>
 <h1 align="right">⬛🟨⬜</h1><br><br>
 
+<a href="https://discord.gg/invite/8PrbHxjwxv" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a>
+<img alt="Discord" src="https://img.shields.io/discord/1184523860381540433">
+
 <details align="left">
   <summary><h2><b>🚩Flags</b></h2></summary>
   <p align="center">
