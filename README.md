@@ -26,6 +26,12 @@
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
     </picture><br>
+    <picture>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisteyf&theme=tokyonight&hide_border=true" />
+    </picture><br>
+    <picture>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+    </picture><br>
     <spam><strong title="At the moment, most of my projects have private access">На данный момент, большинство моих проектов приватные🔏</strong></spam>
   </p>
 </details>
