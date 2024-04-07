@@ -1,6 +1,6 @@
 ### Hi, im adk. (adisteyf) 💠
 <h4><span title="what i know"><p align="right">в чем я разбираюсь (if u dont know russian hover this text)</p></span></h4>
-<img height="40" align="left" src="https://skillicons.dev/icons?i=rust,java,maven,cpp,cs,html,css,golang,photoshop,vscode,discord,stackoverflow"/><br>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=rust,java,maven,cpp,cs,html,css,golang,photoshop,vscode,discord,stackoverflow,idea"/><br>
 <h1 align="right">⬛🟨⬜</h1><br><br>
 <p align="center">
   <span title="Russian Empire Flag">
