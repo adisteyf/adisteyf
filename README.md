@@ -38,7 +38,7 @@
 <details align="left">
   <summary><h2><b>💭Info</b></h2></summary>
   <p>
-  I like creating video games. I'm from Russia. I'm currently creating a <code>Files Engine</code> - an engine for 2D video games on Java with <code>LWJGL</code>.
+  I like creating video games. I'm from Russia. I'm currently creating a <code>Files Engine</code> - an engine for 2D video games on Java with <code>java.awt</code>.
   </p>
 </details>
 <img src="https://github.com/adisteyf/adisteyf/assets/94963746/08a849e1-e6a2-4dd8-a165-e5e4e638b7ee" width="100%">
