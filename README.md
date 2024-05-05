@@ -4,7 +4,7 @@
 <h1 align="right">⬛🟨⬜</h1><br><br>
 
 <a href="https://discord.gg/invite/8PrbHxjwxv"><img src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a>
-<img alt="Discord" src="https://img.shields.io/discord/1184523860381540433"> <strong>(ru server)</strong>
+<img alt="Discord" src="https://img.shields.io/discord/1184523860381540433"> <strong>(my ru server "Shawarma Team")</strong>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/adisteyf">
 
