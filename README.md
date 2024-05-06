@@ -1,6 +1,6 @@
 <h1 align="center">💠 Hi, im adk. (adisteyf) 💠</h1>
 <h4><span title="what i know"><p align="right">в чем я разбираюсь (if u dont know russian hover this text)</p></span></h4>
-<img height="40" align="left" src="https://skillicons.dev/icons?i=rust,java,maven,cpp,cs,html,css,golang,photoshop,vscode,discord,stackoverflow,idea"/><br>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=rust,java,maven,cpp,cs,html,css,golang,photoshop,vscode,discord,stackoverflow,idea,arch"/><br>
 <h1 align="right">⬛🟨⬜</h1><br><br>
 
 <a href="https://discord.gg/invite/8PrbHxjwxv"><img src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a>
