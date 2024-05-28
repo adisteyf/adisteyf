@@ -39,7 +39,7 @@
 <details align="left">
   <summary><h2><b>💭Info</b></h2></summary>
   <p>
-  I like creating video games. I'm from Russia. I'm currently creating a <code>Files Engine</code> - an engine for 2D video games on Java with <code>java.awt</code>.
+  I like creating video games. I'm from Russia. I'm currently creating a <code>Files Engine</code> - an engine for 2D video games on Java with <code>LWJGL</code>.
   </p>
 </details>
 <strong>If my pins dont showing:</strong><br>
