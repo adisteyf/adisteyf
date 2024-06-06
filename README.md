@@ -42,6 +42,4 @@
   I like creating video games. I'm from Russia. I'm currently creating a <code>Files Engine</code> - an engine for 2D video games on Java with <code>LWJGL</code>.
   </p>
 </details>
-<strong>If my pins dont showing:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/adisteyf/FilesEngine" >-FilesEngine</a>
 <img src="https://github.com/adisteyf/adisteyf/assets/94963746/08a849e1-e6a2-4dd8-a165-e5e4e638b7ee" width="100%">
