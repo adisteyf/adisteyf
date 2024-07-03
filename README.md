@@ -3,6 +3,7 @@
 <img height="40" align="left" src="https://skillicons.dev/icons?i=rust,java,maven,cpp,cs,html,css,golang,vscode,discord,stackoverflow,idea,arch"/><br>
 <h1 align="right">⬛🟨⬜</h1><br><br>
 
+[![wakatime](https://wakatime.com/badge/user/1cc870e9-3a6b-467f-b7ff-9a488a8566ef.svg)](https://wakatime.com/@1cc870e9-3a6b-467f-b7ff-9a488a8566ef)
 <a href="https://discord.gg/invite/8PrbHxjwxv"><img src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a>
 <img alt="Discord" src="https://img.shields.io/discord/1184523860381540433"> <strong>(my ru server "Shawarma Team")</strong><br>
 <a href="https://t.me/shawarmateam"><img src="https://img.shields.io/badge/-Telegram-2da8e5?style=flat&logo=telegram&logoColor=white" /></a> <strong>(my ru channel "Shawarma Team")</strong>
