@@ -34,7 +34,6 @@
     <picture>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
     </picture><br>
-    <spam><strong title="At the moment, most of my projects have private access">На данный момент, большинство моих проектов приватные🔏</strong></spam>
   </p>
 </details>
 <details align="left">
