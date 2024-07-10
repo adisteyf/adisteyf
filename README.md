@@ -19,13 +19,13 @@
 
 <p align="center">
     <picture>
-      <img src="https://github-readme-stats.vercel.app/api?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=110" />
+      <img src="https://github-readme-stats.vercel.app/api?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=1" />
     </picture>
     <picture>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisteyf&theme=tokyonight&hide_border=true&card_width=437" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisteyf&theme=tokyonight&hide_border=true&card_width=330" />
     </picture>
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=436" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=800" />
     </picture>
 </p>
 
