@@ -7,14 +7,14 @@
 [![tg](https://img.shields.io/badge/My%20telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umchg)
 
 ### Languages
- | Java | Kotlin | Rust | C++ | C# | GO |
- |------|--------|------|-----|----|----|
- | <img height="40" align="left" src="https://skillicons.dev/icons?i=java"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=kotlin"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=rust"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cs"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=go"/> |
+ | Java | Kotlin | Rust | C++ | C# | GO | C |
+ |------|--------|------|-----|----|----|---|
+ | <img height="40" align="left" src="https://skillicons.dev/icons?i=java"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=kotlin"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=rust"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cs"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=go"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=c" /> |
 
 ### Programs
- | Idea | Maven | VS-Code |
- |------|-------|---------|
- | <img height="40" align="left" src="https://skillicons.dev/icons?i=idea"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=maven"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=vscode"/> |
+ | Idea | Maven | Nvim | Cmake |
+ |------|-------|------|-------|
+ | <img height="40" align="left" src="https://skillicons.dev/icons?i=idea"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=maven"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=neovim"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cmake"/> |
 
 ---
 
