@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/1cc870e9-3a6b-467f-b7ff-9a488a8566ef.svg)](https://wakatime.com/@1cc870e9-3a6b-467f-b7ff-9a488a8566ef)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/adisteyf"><br>
-[![tg](https://img.shields.io/badge/Shawarma%20team-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shawarmateam)
-[![ds](https://img.shields.io/badge/Shawarma%20team-5965f1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8PrbHxjwxv)<br>
 [![tg](https://img.shields.io/badge/My%20telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umchg)
 
 ### Languages
