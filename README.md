@@ -5,14 +5,14 @@
 [![tg](https://img.shields.io/badge/My%20telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umchg)
 
 ### Languages
- | Java | Kotlin | Rust | C++ | C# | GO | C |
- |------|--------|------|-----|----|----|---|
- | <img height="40" align="left" src="https://skillicons.dev/icons?i=java"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=kotlin"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=rust"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cs"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=go"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=c" /> |
+ | Java | Kotlin | Rust | C++ | ZIG | C |
+ |------|--------|------|-----|-----|---|
+ | <img height="40" align="left" src="https://skillicons.dev/icons?i=java"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=kotlin"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=rust"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=zig"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=c" /> |
 
 ### Programs
- | Idea | Maven | Nvim | Cmake |
- |------|-------|------|-------|
- | <img height="40" align="left" src="https://skillicons.dev/icons?i=idea"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=maven"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=neovim"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cmake"/> |
+ | Idea | Maven | Gradle | Nvim | Emacs | Blender |
+ |------|-------|--------|------|-------|---------|
+ | <img height="40" align="left" src="https://skillicons.dev/icons?i=idea"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=maven"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=gradle"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=neovim"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=emacs"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=blender"/> |
 
 ---
 
