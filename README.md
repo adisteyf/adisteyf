@@ -21,13 +21,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=800" />
     </picture>
 </p>
-
----
-
-<details align="left">
-  <summary><h2><b>💭Info</b></h2></summary>
-  <p>
-  I'm Graphics Programmer from Russia, currently creating a <code>СFiles Engine</code> - an engine for 3D video games in C/C++ with <code>OpenGL and etc.</code>. I'm currently learning the <code>Vulkan</code> GPU API.
-  </p>
-</details>
 <img src="https://github.com/adisteyf/adisteyf/assets/94963746/08a849e1-e6a2-4dd8-a165-e5e4e638b7ee" width="100%">
