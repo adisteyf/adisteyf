@@ -1,9 +1,3 @@
-<h1 align="center">💠 Hi, im adk. (adisteyf) 💠</h1>
-
-[![wakatime](https://wakatime.com/badge/user/1cc870e9-3a6b-467f-b7ff-9a488a8566ef.svg)](https://wakatime.com/@1cc870e9-3a6b-467f-b7ff-9a488a8566ef)
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/adisteyf"><br>
-[![tg](https://img.shields.io/badge/My%20telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umchg)
-
 ### Languages
  | Java | Kotlin | Rust | C++ | ZIG | C |
  |------|--------|------|-----|-----|---|
